@@ -2,6 +2,7 @@
 ## Author: Naturfreund
 ## Title: Natur ECB (5.4.8)
 ## Notes: Shows a replication of your targets cast bar, RaidBossCooldowns and Debuff-Timers like 'Sap', 'Burning Adrenaline' etc.
+## Notes-ruRU: Отображает каст-бар вашей цели, восстановление способностей боссов и дебаф-таймеры.
 ## Version: 5.4.8
 ## OptionalDeps: myAddOns
 ## SavedVariablesPerCharacter: CEnemyCastBar

@@ -2,6 +2,7 @@
 ## Author: Naturfreund
 ## Title: NECB Options (5.4.8)
 ## Notes: Load on demand Options Frame for Natur EnemyCastBar
+## Notes-ruRU: Настройки для Natur EnemyCastBar
 ## Version: 5.4.8
 ## Dependencies: CEnemyCastBar
 ## LoadOnDemand: 1
