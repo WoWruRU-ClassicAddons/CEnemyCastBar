@@ -419,7 +419,7 @@ function CEnemyCastBar_Gfind(arg1, event) --Gfind
 				
 			else
 				
-				for mob, crap, spell in string.gfind(arg1, CEnemyCastBar_SPELL_AFFLICTED) do
+				for mob, spell in string.gfind(arg1, CEnemyCastBar_SPELL_AFFLICTED) do
 					
 					NECB_interrupt_casting(spell, mob); -- spell interrupting idea from Lazarus
 					CEnemyCastBar_Control(mob, spell, "afflicted", nil, event);

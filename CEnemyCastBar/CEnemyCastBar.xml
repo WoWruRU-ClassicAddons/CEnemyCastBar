@@ -1,5 +1,5 @@
 <Ui xmlns="http://www.blizzard.com/wow/ui/"   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"   xsi:schemaLocation="http://www.blizzard.com/wow/ui/">
-	<Script file="localized_code.lua"/>
+	<Script file="Localized_code.lua"/>
 	<Script file="CEnemyCastBar.lua"/>
 	<Include file="Locale\Localization.lua"/>
 	<Include file="Locale\Localization.ru.lua"/>
