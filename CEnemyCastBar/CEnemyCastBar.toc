@@ -6,4 +6,5 @@
 ## Version: 5.4.8
 ## OptionalDeps: myAddOns
 ## SavedVariablesPerCharacter: CEnemyCastBar
+
 CEnemyCastBar.xml

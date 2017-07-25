@@ -6,4 +6,6 @@
 ## Version: 5.4.8
 ## Dependencies: CEnemyCastBar
 ## LoadOnDemand: 1
+
 CECB_Options.xml
+CECB_Options.lua
